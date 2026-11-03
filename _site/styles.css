@@ -1,0 +1,11 @@
+/* css styles */
+
+/*-- scss:defaults --*/
+$body-bg: #f0f4f8;          /* page background */
+$body-color: #1a1a2e;       /* main text color */
+$link-color: #4a90d9;       /* link color */
+$navbar-bg: #1a1a2e;        /* nav bar background */
+$navbar-fg: #ffffff;         /* nav bar text */
+$footer-bg: #e8ecf0;        /* footer background */
+
+/*-- scss:rules --*/

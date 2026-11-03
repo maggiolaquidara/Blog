@@ -1,0 +1,8 @@
+---
+title: "This is the First Post"
+author: "Maggio"
+date: "2026-10-31"
+categories: [thoughts]
+---
+
+Dr. Leggett likes Lemonheads.

@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$body-bg: #f7b05b;          /* page background */
+$body-color: #7d4f50;       /* main text color */
+$link-color: #fbacbe;       /* link color */
+$navbar-bg: #fbacbe;        /* nav bar background */
+$navbar-fg: #768948;         /* nav bar text */
+$footer-bg: #768948;        /* footer background */
+
+/* Importing a Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap');
+
+/* Font variables */
+$font-family-sans-serif: 'Mountains of Christmas', serif; /* body text */
+$headings-font-family: 'Mountains of Christmas', serif; /* headings */
+$font-size-root: 17px;                        /* base font size */
+$line-height-base: 1.7;  /* line spacing */
+
+
+/*-- scss:rules --*/
